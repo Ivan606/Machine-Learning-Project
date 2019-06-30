@@ -10,6 +10,7 @@ Techniques: Neural Net, Fast.ai, Logistic Regression, Random forest, SVM and Vot
 Model evaluation and validation techniques: prediction accuracy, precision, recall, F1 score and k fold cross validation
 
 Input of the models: any English sentence or paragrah that is related to movie reviews, and the input can contain puncuation, slang and misspelled word
+
 Output of the models: categorical outcome that classify the sentiment of the input as either positive or negative, with propobility of the prediction
 
 Further application: the models can be easily fine-tuned in order to be applied in other areas such as facebook comments and twitter reviews
